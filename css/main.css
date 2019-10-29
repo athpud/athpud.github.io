@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: gold;
+    font-family:'Arial';
 }
 nav ul, footer ul {
     font-family:'Courier';
@@ -26,6 +27,7 @@ h1 {
 }
 p {
     font-size: 1.5em;
+    font-family:'Arial';
     line-height: 1.4em;
     color: #333;
 }

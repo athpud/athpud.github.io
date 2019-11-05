@@ -1,4 +1,5 @@
-# athpud.github.io 
-# athpud.com
+# athpud.github.io & athpud.com
 
-Here is the stuff that make up my personal website. The stuff was created thanks to the help of this tutorial: http://jmcglone.com/guides/github-pages/
+Here is all the stuff that make up my personal website. 
+<br>
+The stuff was created thanks to the help of this tutorial: http://jmcglone.com/guides/github-pages/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflecting about my first first-author publication!"
-date: 2020-03-29
+date: 2020-02-29
 ---
 
 If you had appeared to me in my third year of graduate school and told me that <a href="https://www.tandfonline.com/doi/abs/10.1080/02643294.2019.1667316/" target="_blank">the first empirical paper</a> I would publish from my Ph.D. would cover the developmental research I was just beginning to undertake in the lab, I probably would have thought you were trying to make an unfunny joke. But opportunity and timing synchronize in unexpected ways in academia, and well, here we are! 

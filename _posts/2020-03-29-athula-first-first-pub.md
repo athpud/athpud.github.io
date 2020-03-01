@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflecting about my first first-author pub!"
+title: "Reflecting about my first first-author publication!"
 date: 2020-03-29
 ---
 

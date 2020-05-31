@@ -3,13 +3,13 @@ body {
     width: 70%;
     background-color: #F4D03F;
     font-family:'Arial';
-    font-size: 1.5em; 
 }
 nav ul, footer ul {
     font-family:'Courier';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    font-size: 1.5em;
 }
 nav ul li, footer ul li {
     display: inline;

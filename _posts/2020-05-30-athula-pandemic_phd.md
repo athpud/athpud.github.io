@@ -6,7 +6,7 @@ date: 2020-09-29
 
 I saved the following image in my second year of graduate school. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/athpud/50399517847/in/dateposted-public/" title="Screen Shot 2020-09-29 at 5.55.16 PM"><img src="https://live.staticflickr.com/65535/50399517847_172cdb0f1e_z.jpg" width="640" height="341" alt="Screen Shot 2020-09-29 at 5.55.16 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/50399517847_172cdb0f1e_z.jpg" width="640" height="341">
 
 It looks like I saved the image in March of 2016, meaning I likely found it on Twitter. I couldn’t find the original tweet, but when I reverse image-searched it, <a href="https://quoteinvestigator.com/2013/06/30/tetris-lesson/" target="_blank">this is the attribution that I found</a>. 
 

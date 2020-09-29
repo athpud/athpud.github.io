@@ -18,12 +18,12 @@ The tumultuous ballad of this year plays on, louder now than ever before. There 
 
 Moving forward, I want to incorporate this realization. On the wall of my desk was a string of letters that spelled out “PERSEVERANCE.” Here I am taking it down on that fateful March morning, smiling with the naivety of that spring.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/athpud/50399518682/in/dateposted-public/" title="20200323_105811"><img src="https://live.staticflickr.com/65535/50399518682_356b0994eb_z.jpg" width="640" height="480" alt="20200323_105811"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/50399518682_356b0994eb_z.jpg" width="640" height="480">
 
 
 To replace it, now in a corner of my apartment, I have now strung up a different set of letters, spelling out “OPTIMISM.” I want to punctuate my life with experience and knowledge, and not feel so indebted to my accomplishments to demarcate progress. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/athpud/50398667688/in/dateposted-public/" title="IMG_0909"><img src="https://live.staticflickr.com/65535/50398667688_9bbd5d5fb4_z.jpg" width="640" height="480" alt="IMG_0909"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/50398667688_9bbd5d5fb4_z.jpg" width="640" height="480">
 
 I realize that trite placations are not a salve for the real problems, but like this tweet by a historian states, <a href="https://twitter.com/Lollardfish/status/1310770262179160065" target="_blank">“everything that is bad right now is fixable.”</a> And I’m going to cautiously approach the rest of the year with that in mind.
 

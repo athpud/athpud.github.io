@@ -27,4 +27,4 @@ To replace it, now in a corner of my apartment, I have now strung up a different
 
 I realize that trite placations are not a salve for the real problems, but like this tweet by a historian states, <a href="https://twitter.com/Lollardfish/status/1310770262179160065" target="_blank">“everything that is bad right now is fixable.”</a> And I’m going to cautiously approach the rest of the year with that in mind.
 
-<i>This post is a bit more personal than usual, and probably largely reads as corny. But I think it would be remiss for me to move forward with this section of my personal website without addressing the turn this year has taken and its resultant impact on my life without due sincerity.</i>
+<i>This post is a bit more personal than usual, and probably reads as corny. But I think it would be remiss for me to move forward with this section of my personal website without addressing the turn this year has taken and its resultant impact on our lives without due sincerity.</i>
